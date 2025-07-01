@@ -9,13 +9,11 @@ This project focuses on building an interactive Power BI dashboard to analyze em
 ✅ Provided real-time insights to support better hiring and retention strategies
 ✅ Helped improve workforce productivity and employee trust
 ✅ Delivered clear, actionable visualizations for decision-makers
+
 🛠 Tools & Technologies
 Power BI
-
 Microsoft Excel
-
 Data Modeling
-
 Data Visualization
 
 🎯 Project Outcome
